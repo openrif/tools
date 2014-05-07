@@ -1,3 +1,5 @@
+The following is only an example. It needs updating. See the actual eagle-i command in the eagle-i svn under eagle-i-dev/datamodel/trunk/src/tools/model-owl
+
 java -Dowlcl.work.dir=/home/essaids/owlcl-work-dir -Dowlcl.output.dir=/home/essaids/owlcl-output-dir -jar owlcl.jar @EroBuildParameters
 
 
